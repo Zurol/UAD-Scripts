@@ -2,33 +2,33 @@
 
 Repositorio de código para el Curso de Verano: Diseño y Desarrollo de Videojuegos 2023C.
 
-Player Movement:
+**Player Movement:**
 - Horizontal and Vertical Movement (e.g., WASD or arrow keys).
 - Jumping and Double Jumping.
 
-Camera:
+**Camera:**
 - Follow the Player.
 * Limit Camera Boundaries.
 
-Physics and Collisions:
+**Physics and Collisions:**
 - Collisions and Collision Response.
 - Triggers and Event Handling.
 
-Health and Damage:
+**Health and Damage:**
 - Player Health System.
 - Taking Damage and Respawning.
 
-Enemies and AI:
+**Enemies and AI:**
 - Basic Enemy Behavior (e.g., patrolling, chasing).
 - Auto Movement.
 - Rotation and look at.
 - Enemy Health and Damage.
 - Spawn Manager.
 
-Collectibles and Items:
+**Collectibles and Items:**
 - Collecting Coins, Gems, or Power-ups.
 
-Special Abilities and Power-ups:
+**Special Abilities and Power-ups:**
 - Dash, Glide, or any special abilities.
 - Temporary Power-ups (e.g., speed boost, invincibility).
 
@@ -36,30 +36,26 @@ Special Abilities and Power-ups:
 
 
 
-
-
-
-
-Others Resources:
+**Others Resources:**
 
 * Particles System.
 
-Audio:
+**Audio:**
 - Sound Effects (e.g., footsteps, collecting items).
 - Background Music.
 
 
-User Interface:
+**User Interface:**
 - HUD (Heads-Up Display) with Health and Score Display.
 - Main Menu and Pause Menu.
 
  
-Level Design:
+**Level Design:**
 - Creating Tilemaps and Tile-Based Collisions.
 - Level Transitions and Scene Management.
 
 
-Game Mechanics:
+**Game Mechanics:**
 - Timers and Time-based Events.
 - Score Management.
 - Level Progression.
